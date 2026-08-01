@@ -1,0 +1,22 @@
+# profile-title: 🌍 ARNUR MULTIVPN 🌍
+# profile-update-interval: 1
+# Date/Time: 2026-08-02 / 00:00 (Local)
+# Количество: 9
+# Servers: 🇺🇸 USA, 🇷🇺 Russia, 🇰🇿 Kazakhstan, 🇯🇵 Japan, 🇦🇷 Argentina, 🇧🇷 Brazil, 🇨🇦 Canada, 🇨🇳 China, 🇰🇷 South Korea
+# Protocols: Shadowsocks, Trojan
+
+# RU: Мульти-серверная VPN-подписка с серверами в 9 странах.
+# RU: Флаги в начале названий используются Happ для отображения иконок серверов.
+
+# EN: Multi-server VPN subscription with servers in 9 countries.
+# EN: Flags at the beginning of server names are used by Happ for server icons.
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoeGRWNVNOWWZvQjNDbmNMdGU1UURD@creativeboxlv.zanity.net:5228#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%2339042%20/%20OutlineKeys.com
+ss://YWVzLTI1Ni1nY206ODk1YjRiNzk2YTM1NzU3MA@176.32.35.51:10910#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%2339046%20/%20OutlineKeys.com
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%2335291%20/%20OutlineKeys.com
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTJlMGJkYi0wMWRiLTQ1MGMtOTRjNC05MjUxNTFlYjM5NmU@ss.044.node-for-bigairport.win:19001#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%2338862%20/%20OutlineKeys.com
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjk3ODA0N2I0N2Y3ZWFi@154.205.154.184:11201#%F0%9F%87%A6%F0%9F%87%B7%20Argentina%20%2332869%20/%20OutlineKeys.com
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@163.176.113.239:59319#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%2339047%20/%20OutlineKeys.com
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@38.113.188.118:1080#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%2338853%20/%20OutlineKeys.com
+ss://YWVzLTI1Ni1nY206UGlMcjEzcEU=@120.233.125.33:30036#%F0%9F%87%A8%F0%9F%87%B3%20China%20%2334847%20/%20OutlineKeys.com
+trojan://FC60532879@109.61.127.68:443#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%2338803%20/%20OutlineKeys.com
