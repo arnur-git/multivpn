@@ -1,6 +1,6 @@
 # profile-title: 🌍 ARNUR MULTIVPN 🌍
 # profile-update-interval: 1
-# Количество: 12
+# Количество: 13
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoeGRWNVNOWWZvQjNDbmNMdGU1UURD@creativeboxlv.zanity.net:5228#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%2339042%20%2F%20OutlineKeys.com
 ss://YWVzLTI1Ni1nY206ODk1YjRiNzk2YTM1NzU3MA@176.32.35.51:10910#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%2339046%20%2F%20OutlineKeys.com
