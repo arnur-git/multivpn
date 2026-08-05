@@ -1,6 +1,6 @@
 # profile-title: 🌍 ARNUR MULTIVPN 🌍
 # profile-update-interval: 1
-# Количество: 13
+# Количество: 14
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoeGRWNVNOWWZvQjNDbmNMdGU1UURD@creativeboxlv.zanity.net:5228#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%2339042%20%2F%20OutlineKeys.com
 ss://YWVzLTI1Ni1nY206ODk1YjRiNzk2YTM1NzU3MA@176.32.35.51:10910#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%2339046%20%2F%20OutlineKeys.com
@@ -15,3 +15,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2T21uQzl1SjZ0WGRMeUlhUkd3YzJz@creativeboxde.zanity.net:5223#%F0%9F%87%B7%F0%9F%87%BA%20Russia%202%20%2339041%20%2F%20OutlineKeys.com
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%202%20%2339056%20%2F%20OutlineKeys.com
 vless://bb29c155-d55e-4c07-8403-0581e384f7a2@172.64.32.217:2087#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%203%20%2316998%20%2F%20OutlineKeys.com
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@147.15.7.158:59319#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%203%20%2339272%20%2F%20OutlineKeys.com
